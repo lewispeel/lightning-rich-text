@@ -1,0 +1,6 @@
+{
+  "name": "Rich Text Example",
+  "identifier": "com.sky.richtext",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
